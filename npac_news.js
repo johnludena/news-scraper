@@ -14,16 +14,6 @@ const ObjectsToCsv = require('objects-to-csv');
 // }
 const allArticles = [];
 
-const writeToCsv = async (dataArr) => {
-	const csv = new ObjectsToCsv(dataArr);
-
-	// Save to file:
-	await csv.toDisk('./data.csv');
-
-	// Return the CSV file as string:
-	// console.log(await csv.toString());
-}
-
 axios
 	.get('https://numberportability.com/news/')
 	.then((response) => {
@@ -61,7 +51,13 @@ axios
 
 						articleData.body = $('.container .rich-text').html()
 						allArticles.push(articleData)
+
+						console.log('This is the end of the road.')
 					})
+					.catch(function (error) {
+						// handle error
+						console.error(error);
+					  })
 			} else {
 				console.log('Article points to external resource')
 				allArticles.push(articleData)
@@ -69,9 +65,22 @@ axios
 				
 		})
 
-		// After we have finished looping over all found articles, we write all data to our CSV
 		console.log(allArticles)
-		writeToCsv(allArticles);
+
+		// After we have finished looping over all found articles, we write all data to our CSV
+		// console.log(allArticles)
+		// If you use "await", code must be inside an asynchronous function:
+		(async () => {
+			const csv = new ObjectsToCsv(allArticles);
+
+			console.log('Is this running here?')
+		
+			// Save to file:
+			await csv.toDisk('./npac_news.csv');
+		
+			// Return the CSV file as string:
+			console.log(await csv.toString());
+		})();
 
 	})
 	.catch((error) => {
