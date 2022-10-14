@@ -13,7 +13,7 @@ const writeToCsv = async (dataArr) => {
 	const csv = new ObjectsToCsv(dataArr);
 
 	// Save to file:
-	await csv.toDisk('./npac_news.csv');
+	await csv.toDisk('./content/npac_news.csv');
 
 }
 

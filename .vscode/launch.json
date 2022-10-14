@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/npac_news.js",
+            "program": "${workspaceFolder}/archives/archive.js",
             "outputCapture": "std"
         }
     ]

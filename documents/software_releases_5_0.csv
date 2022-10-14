@@ -1,0 +1,84 @@
+name,url
+NANC 403 – Allow Recovery Messages to be sent only during Recovery,https://numberportability.com/documents/6349/NANC_403-recover_only_during_recovery-v2.docx
+NANC 467 – ASN.1 – CMIP lnpRecoveryComplete Action reply,https://numberportability.com/documents/4989/NANC_467_-_iconectiv6_-_ASN.1_-_lnpRecoveryComplete_V1_7A0GPpW.docx
+NANC 471 – ASN.1 – SV DisconnectReply,https://numberportability.com/documents/5073/NANC_471_-_iconectiv22_-_ASN.1_-_SV_DisconnectReply_V1_AnNlkyf.docx
+NANC 472 – ASN.1 – Audit Discrepancy Report,https://numberportability.com/documents/7006/NANC_472_-_ASN.1_Audit_Discrepancy_Report_-_v4.docx
+NANC 473 – ASN.1 – Address Information,https://numberportability.com/documents/1299/NANC_473_-_iconectiv46_-_ASN.1_-_Address_Information_V1_vekdual.docx
+NANC 474 – ASN.1 – SWIM Recovery,https://numberportability.com/documents/1301/NANC_474_-_iconectiv79_-_ASN.1_-_SWIM_Recovery_V1_RHq6sRY.docx
+NANC 477 – GDMO – Service Provider Type Definition,https://numberportability.com/documents/1306/NANC_477_-_GDMO__Service_Provider_Type_Definition.docx
+NANC 478 – ASN.1 – Pre-cancellation Status of Disconnect Pending,https://numberportability.com/documents/5579/NANC_478_-_FRS_ASN.1__Pre_Cancellation_Status_of_Disconnect_Pending_-_v2.docx
+NANC 484 – XML – Removal of Optional Data values,https://numberportability.com/documents/5437/NANC_484_-_XML__Removal_of_Optional_Data_Values_-_v2.docx
+NANC 494 – XML Message Delegation,https://numberportability.com/documents/5061/NANC_494_-_RR6-237_-_XML_Message_Delegation_AwJnYUx.docx
+NANC 497 – NPAC Customer ID in CMIP Key Exchange ,https://numberportability.com/documents/6539/NANC_497_-_NPAC_Customer_ID_in_CMIP_Key_Exchange_-_v2.docx
+NANC 528 – GDMO-ASN.1-XSD updates,https://numberportability.com/documents/5615/NANC_528_-_GDMO-ASN.1-XSD_updates_-_v5a.docx
+NANC 531 – Recovery and Roll-up,https://numberportability.com/documents/5447/NANC_531_-_Recovery_and_Roll-up.docx
+NANC 533 – Audits with Activation Timestamp Range,https://numberportability.com/documents/5487/NANC_533_-_Audits_with_Activation_Timestamp_Range.docx
+NANC 535 – SP Deletion Validation for Alt SPID and Last Alt SPID ,https://numberportability.com/documents/5489/NANC_535_-_SP_Deletion_and_Alt_SPID_Last_Alt_SPID_validation.docx
+NANC 537 – MUMP Due Date Matching ,https://numberportability.com/documents/5495/NANC_537_-_MUMP_-_Due_Date_Matching_neaJZVg.docx
+NANC 538 – Expanded Deletion of Inactive SPIDs ,https://numberportability.com/documents/5585/NANC_538_-_Expanded_Deletion_of_Inactive_SPIDs.docx
+NANC 541 – Time Based Recovery Limit ,https://numberportability.com/documents/6291/NANC_541-_Time_Based_Recovery_Limit_kmdOrtd.docx
+NANC 549 – Removal of Customer Contact Related Error Codes ,https://numberportability.com/documents/6425/NANC_549_-_Removal_of_Customer_Contact_Related_Error_Codes.docx
+NANC 550 – Billing ID and Alt-Billing ID Consistency ,https://numberportability.com/documents/6536/NANC_550_-_Billing_ID_and_Alt-Billing_ID_Consistency1.docx
+Vendor Certification and Regression Test Plan Chapter 1-7 R5.0 10-25-2020,https://numberportability.com/documents/7645/Vendor_Certification_and_Regression_Test_Plan_Chapter_17_R5.0_10-25-2020_2RzlkoI.docx
+Vendor Certification and Regression Test Plan Chapter 8 R5.0 10-25-2020,https://numberportability.com/documents/7226/Vendor_Certification_and_Regression_Test_Plan_Chapter_8_R5.0_10-25-2020.docx
+Vendor Certification and Regression Test Plan Chapter 9 R5.0 10-25-2020,https://numberportability.com/documents/7230/Vendor_Certification_and_Regression_Test_Plan_Chapter_9_R5.0_10-25-2020.docx
+Vendor Certification and Regression Test Plan Chapter 10 R5.0 10-25-2020,https://numberportability.com/documents/7190/Vendor_Certification_and_Regression_Test_Plan_Chapter_10_R5.0_10-25-2020.docx
+Vendor Certification and Regression Test Plan Chapter 11 R5.0 10-25-2020,https://numberportability.com/documents/7194/Vendor_Certification_and_Regression_Test_Plan_Chapter_11_R5.0_10-25-2020.docx
+Vendor Certification and Regression Test Plan Chapter 12 R5.0 10-25-2020,https://numberportability.com/documents/7198/Vendor_Certification_and_Regression_Test_Plan_Chapter_12_R5.0_10-25-2020.docx
+Vendor Certification and Regression Test Plan Chapter 13 R5.0 10-25-2020,https://numberportability.com/documents/7202/Vendor_Certification_and_Regression_Test_Plan_Chapter_13_R5.0_10-25-2020.docx
+Vendor Certification and Regression Test Plan Chapter 14 R5.0 10-25-2020,https://numberportability.com/documents/7206/Vendor_Certification_and_Regression_Test_Plan_Chapter_14_R5.0_10-25-2020.docx
+Vendor Certification and Regression Test Plan Chapter 15 R5.0 10-25-2020,https://numberportability.com/documents/7210/Vendor_Certification_and_Regression_Test_Plan_Chapter_15_R5.0_10-25-2020.docx 
+Vendor Certification and Regression Test Plan Chapter 16 R5.0 10-25-2020,https://numberportability.com/documents/7214/Vendor_Certification_and_Regression_Test_Plan_Chapter_16_R5.0_10-25-2020.docx
+Vendor Certification and Regression Test Plan Chapter 17 R5.0 10-25-2020,https://numberportability.com/documents/7218/Vendor_Certification_and_Regression_Test_Plan_Chapter_17_R5.0_10-25-2020.docx
+Release 5.0 Read Me,https://numberportability.com/documents/6550/Release_5.0_Read_Me_v3_FrQreTH.docx
+Release 5.0 FRS 5.0 Pre-Production Review Copy 02-25-2020 ,https://numberportability.com/documents/6575/FRS_5.0_Pre-Production_Review_Copy_02-25-2020.docx
+Release 5.0 EFD Errors Flows 5.0 Pre-Production Review Copy 02-25-2020,https://numberportability.com/documents/6574/EFD_Errors_Flows_5.0_Pre-Production_Review_Copy_02-25-2020.docx
+Release 5.0 IIS 5.0 Pre-Production Review Copy 02-25-2020 ,https://numberportability.com/documents/6576/Release_5.0_IIS_Pre-Production_Review_Copy_02-25-2020_.docx
+Release 5.0 GDMO Pre-Production Review Copy 02-25-2020 ,https://numberportability.com/documents/6580/Release_5.0_GDMO_Pre-Production_Review_Copy_02-25-2020.txt
+Release 5.0 ASN.1 Pre-Production Review Copy 02-25-2020 ,https://numberportability.com/documents/6583/Release_5.0_ASN.1_Pre-Production_Review_Copy_2-25-2020.txt
+Release 5.0 XIS v5.0 Pre-Production Review Copy 02-25-2020 ,https://numberportability.com/documents/6581/XIS_v5.0_Pre-Production_Review_Copy_02-25-2020.docx
+Release 5.0 XML Schema v5.0l Pre-Production Review Copy 02-25-2020,https://numberportability.com/documents/6577/NPAC_XML_Schema_v5.0l_Pre-Production_Review_Copy_02-25-2020.xsd
+Release 5.0 XML Schena v5.0s Pre-Production Review Copy 02-25-2020 ,https://numberportability.com/documents/6578/NPAC_XML_Schema_v5.0s_Pre-Production_Review_Copy_02-25-2020.xsd
+Release 5.0 XML Mnemonics v5.0 Pre-Production Review Copy 02-25-2020 ,https://numberportability.com/documents/6582/XML_Mnemonics_v5.0_Pre-Production_Review_Copy_02-25-2020.xlsx 
+Release 5.0 Optional Data XML - US - 2020-10 5.0 Pre-Production Review Copy 02-25-2020 ,https://numberportability.com/documents/6579/Optional_Data_XML_-_US-2020-10_5.0_Pre-Production_Review_Copy_02-25-20.docx
+Release 5.0 FRS Pre-Production Review Copy 11-12-19 ,https://numberportability.com/documents/6526/FRS_5.0_Pre-Production_Review_Copy_11-12-20191.docx
+Release 5.0 EFD Pre-Production Review Copy 11-12-19,https://numberportability.com/documents/6525/EFD_Errors_Flows_5.0_Pre-Production_Review_Copy_11-12-20191.docx
+Release 5.0 IIS Pre-Production Review Copy 11-12-19,https://numberportability.com/documents/6527/IIS_5.0_Pre-Production_Review_Copy_11-12-20191.docx
+Release 5.0 GDMO Pre-Production Review Copy 11-12-19,https://numberportability.com/documents/6532/Release_5.0_GDMO_Pre-Production_Review_Copy_11-12-20191.txt
+Release 5.0 ASN.1 Pre-Production Review Copy 11-12-19,https://numberportability.com/documents/6531/Release_5.0_ASN.1_Pre-Production_Review_Copy_11-12-20191.txt
+Release 5.0 XIS Pre-Production Review Copy 11-12-19,https://numberportability.com/documents/6534/XIS_v5.0_Pre-Production_Review_Copy_11-12-20191.docx
+Release 5.0 XML Schema v5.0l Pre-Production Review Copy 11-12-19,https://numberportability.com/documents/6528/NPAC_XML_Schema_v5.0l_Pre-Production_Review_Copy_11-12-20191.xsd
+Release 5.0 XML Schema v5.0s Pre-Production Review Copy 11-12-19,https://numberportability.com/documents/6529/NPAC_XML_Schema_v5.0s_Pre-Production_Review_Copy_11-12-20191.xsd
+Release 5.0 XML Mnemonics v5.0 Pre-Production Review Copy 11-12-19,https://numberportability.com/documents/6535/XML_Mnemonics_v5.0_Pre-Production_Review_Copy_11-12-20191.xlsx
+Optional Data XML – US-2009-12 ,https://numberportability.com/documents/6530/Optional_Data_XML_-_US-2009-121.docx
+Release 5.0 FRS Pre-Production Review Copy 07-09-19,https://numberportability.com/documents/6276/FRS_5.0_Pre-Production_Review_Copy_07-09-2019.docx
+Release 5.0 EFD Errors Flows 5.0 Pre-Production Review Copy 07-09-19,https://numberportability.com/documents/6545/EFD_Errors_Flows_5.0_Pre-Production_Review_Copy_07-09-2019_nHEwt0q.docx
+Release 5.0 IIS Pre-Production Review Copy 07-09-19 ,https://numberportability.com/documents/6277/IIS_5.0_Pre-Production_Review_Copy_07-09-2019.docx
+Release 5.0 GDMO Pre-Production Review Copy 07-09-19 ,https://numberportability.com/documents/6262/Release_5.0_GDMO_Pre-Production_Review_Copy_07-09-2019.txt
+Release 5.0 ASN.1 Pre-Production Review Copy 07-09-19 ,https://numberportability.com/documents/6280/Release_5.0_ASN.1_Pre-Production_Review_Copy_07-09-2019.txt
+Release 5.0 XIS Pre-Production Copy Review 07-09-19 ,https://numberportability.com/documents/6274/XIS_v5.0_Pre-Production_Review_Copy_07-09-2019.docx
+Release 5.0 XML Schema v5.0l Pre-Production Review Copy 07-09-19 ,https://numberportability.com/documents/6278/NPAC_XML_Schema_v5.0l_Pre-Production_Review_Copy_07-09-2019.xsd
+Release 5.0 XML Schema v5.0s Pre-Production Review Copy 07-09-19,https://numberportability.com/documents/6279/NPAC_XML_Schema_v5.0s_Pre-Production_Review_Copy_07-09-2019.xsd
+Release 5.0 XML Mnemonics v5.0 Pre-Production Review Copy 07-09-19,https://numberportability.com/documents/6275/XML_Mnemonics_v5.0_Pre-Production_Review_Copy_07-09-2019.xlsx
+Release 5.0 Certification and Regression Test Plans Chapter 1-7 v2,https://numberportability.com/documents/6585/Release_5.0_Vendor_Certification__Regression_Test_Plan_Chapter_1-7_v2.docx
+Release 5.0 Certification and Regression Test Plans Chapter 8 v2,https://numberportability.com/documents/6586/Release_5.0_Vendor_Certification__Regression_Test_Plan_Chapter_8_v2.docx
+Release 5.0 Certification and Regression Test Plans Chapter 9 v2,https://numberportability.com/documents/6587/Release_5.0_Vendor_Certification__Regression_Test_Plan_Chapter_9_v2.docx
+Release 5.0 Certification and Regression Test Plans Chapter 10 v2,https://numberportability.com/documents/6588/Release_5.0_Vendor_Certification__Regression_Test_Plan_Chapter_10_v2.docx
+Release 5.0 Certification and Regression Test Plans Chapter 11 v2,https://numberportability.com/documents/6589/Release_5.0_Vendor_Certification__Regression_Test_Plan_Chapter_11_v2.docx
+Release 5.0 Certification and Regression Test Plans Chapter 12 v2,https://numberportability.com/documents/6590/Release_5.0_Vendor_Certification__Regression_Test_Plan_Chapter_12_v2.docx
+Release 5.0 Certification and Regression Test Plans Chapter 13 v2,https://numberportability.com/documents/6591/Release_5.0_Vendor_Certification__Regression_Test_Plan_Chapter_13_v2.docx
+Release 5.0 Certification and Regression Test Plans Chapter 14 v2,https://numberportability.com/documents/6592/Release_5.0_Vendor_Certification__Regression_Test_Plan_Chapter_14_v2.docx
+Release 5.0 Certification and Regression Test Plans Chapter 15 v2,https://numberportability.com/documents/6593/Release_5.0_Vendor_Certification__Regression_Test_Plan_Chapter_15_v2.docx
+Release 5.0 Certification and Regression Test Plans Chapter 16 v2,https://numberportability.com/documents/6594/Release_5.0_Vendor_Certification__Regression_Test_Plan_Chapter_16_v2.docx
+Release 5.0 Certification and Regression Test Plans Chapter 17 v2,https://numberportability.com/documents/6595/Release_5.0_Vendor_Certification__Regression_Test_Plan_Chapter_17_v2.docx
+Release 5.0 - SP Group Test Plan Pre-Production Review Copy v2,https://numberportability.com/documents/6546/Release_5.0_-_SP_Group_Test_Plan_Pre-Production_Review_Copy_v2_JtSk74O.docx
+FRS R5.0 10-25-2020,https://numberportability.com/documents/7138/FRS_R5.0_10-25-2020_.docx
+EFD R5.0 10-25-2020,https://numberportability.com/documents/7134/EFD_R5.0_10-25-20.docx
+IIS R5.0 10-25-2020,https://numberportability.com/documents/7146/IIS_R5.0_10-25-20.docx
+GDMO R5.0 10-25-2020,https://numberportability.com/documents/7142/GDMO_R5.0_10-26-2020.txt
+ASN.1 R5.0 10-25-2020,https://numberportability.com/documents/7154/ASN.1_R5.0_10-25-2020.txt
+XIS R5.0 10-25-2020,https://numberportability.com/documents/7150/XIS_R5.0_10-25-2020.docx
+XML Schema (L) R5.0 10-25-2020.xsd,https://numberportability.com/documents/7186/XML_Schema_L_R5.0_10-25-2020.xsd
+XML Schema (S) R5.0 10-25-2020.xsd,https://numberportability.com/documents/7174/XML_Schema_S_R5.0_10-25-2020.xsd
+XML Mnemonics R5.0 10-25-2020.xlsx,https://numberportability.com/documents/7178/XML_Mnemonics_R5.0_10-25-2020.xlsx
+XML Optional Data US R5.0 10-25-2020.docx,https://numberportability.com/documents/7182/XML_Optional_Data_-_US_R5.0_10-25-2020.docx
